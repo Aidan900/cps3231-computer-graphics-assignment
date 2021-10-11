@@ -1,5 +1,5 @@
 # cps3231-computer-graphics-assignment
-Arkanoid 3D game for the CPS3231 - Computer Graphics Assignment.
+Arkanoid 3D game for the CPS3231 - Computer Graphics Assignment implemented using WebGL.
 
 #### Controls
 Spacebar - Shoot ball (hold to increase speed).
